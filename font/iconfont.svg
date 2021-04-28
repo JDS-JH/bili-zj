@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="changyongicon-" unicode="&#58897;" d="M213.333333 362.66666699999996a21.333333 21.333333 0 0 0 0 42.666666l577.706667 1.92a21.333333 21.333333 0 0 0 0-42.666666L213.333333 362.66666699999996zM512 85.33333300000004a21.333333 21.333333 0 0 0-15.573333 6.826667 21.333333 21.333333 0 0 0 1.066666 30.08L779.306667 384 497.493333 645.76a21.333333 21.333333 0 1 0 29.013334 31.146667l298.666666-277.333334a21.333333 21.333333 0 0 0 0-31.146666l-298.666666-277.333334A21.333333 21.333333 0 0 0 512 85.33333300000004z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
